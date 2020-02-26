@@ -1,0 +1,69 @@
+ppt课件1: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/introduction.pptx
+ppt课件2: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/Regression.pptx
+ppt课件3: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/Bias and Variance.pptx
+ppt课件4: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/Gradient Descent.pptx
+ppt课件5: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/Classification (v2).pptx
+ppt课件6: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/Logistic Regression (v4).pptx
+ppt课件7: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/DL.pptx
+ppt课件8: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/BP (v2).pptx
+ppt课件9: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/Keras.pptx
+ppt课件10: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/DNN tip.pptx
+ppt课件11: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/CNN.pptx
+ppt课件12: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/Why.pptx
+ppt课件13: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/semi.pptx
+ppt课件14: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/PCA (v3).pptx
+ppt课件15: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/TSNE.pptx
+ppt课件16: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/auto.pptx
+ppt课件17: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/word2vec (v2).pptx
+ppt课件18: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/GAN (v3).pptx
+ppt课件19: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/transfer.pptx
+ppt课件20: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/RNN.pptx
+ppt课件21: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/MF.pptx
+ppt课件22: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/Ensemble.pptx
+ppt课件23: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/Structured Introduction.pptx
+ppt课件24: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/RL (v4).pptx
+pdf文档1: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/introduction.pdf
+pdf文档2: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/Regression.pdf
+pdf文档3: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/Bias and Variance.pdf
+pdf文档4: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/Gradient Descent.pdf
+pdf文档5: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/Classification (v2).pdf
+pdf文档6: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/Logistic Regression (v4).pdf
+pdf文档7: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/DL.pdf
+pdf文档8: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/BP (v2).pdf
+pdf文档9: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/Keras.pdf
+pdf文档10: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/DNN tip.pdf
+pdf文档11: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/CNN.pdf
+pdf文档12: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/Why.pdf
+pdf文档13: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/semi.pdf
+pdf文档14: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/PCA (v3).pdf
+pdf文档15: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/TSNE.pdf
+pdf文档16: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/auto.pdf
+pdf文档17: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/word2vec (v2).pdf
+pdf文档18: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/GAN (v3).pdf
+pdf文档19: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/transfer.pdf
+pdf文档20: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/RNN.pdf
+pdf文档21: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/MF.pdf
+pdf文档22: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/Ensemble.pdf
+pdf文档23: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/Structured Introduction.pdf
+pdf文档24: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/RL (v4).pdf
+课程视频1: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/Linear Regression.mp4
+课程视频2: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/Error.mp4
+课程视频3: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/Gradient Descent.mp4
+课程视频4: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/Classification.mp4
+课程视频5: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/LR.mp4
+课程视频6: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/DL.mp4
+课程视频7: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/BP.mp4
+课程视频8: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/Keras.mp4
+课程视频9: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/DNN_tip.mp4
+课程视频10: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/CNN.mp4
+课程视频11: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/Why.mp4
+课程视频12: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/semi.mp4
+课程视频13: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/PCA.mp4
+课程视频14: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/graph.mp4
+课程视频15: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/auto.mp4
+课程视频16: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/word2vec.mp4
+课程视频17: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/GAN.mp4
+课程视频18: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/TF.mp4
+课程视频19: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/MF.mp4
+课程视频20: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/Ensemble.mp4
+课程视频21: http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/RL.mp4
